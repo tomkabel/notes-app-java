@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-    <img width="300px" height="max" src="https://static.vecteezy.com/system/resources/previews/046/934/238/non_2x/blank-notebook-with-pen-on-transparent-background-free-png.png">
+    <img  src="https://static.vecteezy.com/system/resources/previews/046/934/238/non_2x/blank-notebook-with-pen-on-transparent-background-free-png.png">
     </td>
     <td>
     <strong>NotesApp</strong> is an interactive command-line tool that allows users to manage short, single-line notes within named collections. Each collection is stored in a separate text file, ensuring data persistence between runs. The program enables users to view, add, and delete notes from a specified collection.
